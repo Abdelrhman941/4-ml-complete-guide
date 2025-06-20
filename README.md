@@ -269,13 +269,6 @@ Feel free to open an issue or reach out if you find this helpful or have suggest
 
 ---
 
-## 🔗 Related Projects
-
-> **🔍 Data Preprocessing**: For comprehensive data preprocessing workflows and techniques:  
-> **[📊 ML Preprocessing Guide](https://github.com/Abdelrhman941/ml-preprocessing-guide.git)**
-
----
-
 ## 📄 License & Usage
 
 This repository is available under the **MIT License**. Feel free to:
