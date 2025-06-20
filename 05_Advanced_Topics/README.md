@@ -4,9 +4,6 @@ This section covers advanced techniques that build upon the fundamentals to crea
 
 ## 📚 Topics Overview
 
-### 🎯 Ensemble Methods
-**Philosophy:** "Wisdom of crowds" - combine multiple models for better performance
-
 ### 🧠 Neural Networks Basics
 **Foundation:** Building blocks for deep learning
 
@@ -23,55 +20,6 @@ This section covers advanced techniques that build upon the fundamentals to crea
 - **Increase Robustness**: Less sensitive to outliers and noise
 - **Capture Different Patterns**: Each model learns different aspects
 - **Improve Generalization**: Better performance on unseen data
-
-### Types of Ensemble Methods
-
-#### 1. Bagging (Bootstrap Aggregating)
-**Strategy:** Train multiple models on different subsets of data
-
-| Method | Description | Pros | Cons |
-|--------|-------------|------|------|
-| **Random Forest** | Bagging + Random features | Reduces overfitting, fast | Less interpretable |
-| **Extra Trees** | Extremely randomized trees | Even faster training | Higher variance |
-
-**How it works:**
-```
-Dataset → Bootstrap Sample 1 → Model 1 ┐
-        → Bootstrap Sample 2 → Model 2 ├→ Average/Vote → Final Prediction
-        → Bootstrap Sample n → Model n ┘
-```
-
-#### 2. Boosting
-**Strategy:** Train models sequentially, each correcting previous errors
-
-| Method | Description | Pros | Cons |
-|--------|-------------|------|------|
-| **AdaBoost** | Adaptive boosting | Good performance, interpretable | Sensitive to noise |
-| **Gradient Boosting** | Fits residuals iteratively | Excellent performance | Prone to overfitting |
-| **XGBoost** | Optimized gradient boosting | State-of-the-art performance | Many hyperparameters |
-| **LightGBM** | Fast gradient boosting | Very fast, efficient | Requires tuning |
-| **CatBoost** | Handles categorical features | Automatic cat. handling | Less mature |
-
-**How it works:**
-```
-Model 1 → Errors 1 → Model 2 → Errors 2 → Model 3 → ... → Final Model
-```
-
-#### 3. Stacking
-**Strategy:** Use a meta-model to combine predictions from base models
-
-**How it works:**
-```
-Base Model 1 ┐
-Base Model 2 ├→ Meta-Model → Final Prediction
-Base Model 3 ┘
-```
-
-#### 4. Voting
-**Strategy:** Combine predictions through voting or averaging
-
-- **Hard Voting**: Majority vote for classification
-- **Soft Voting**: Average predicted probabilities
 
 ## 🧠 Neural Networks Fundamentals
 
@@ -156,27 +104,16 @@ Time Series = Trend + Seasonality + Noise
 
 ## 🎯 Learning Path
 
-### Phase 1: Ensemble Fundamentals
-1. **Random Forest** - Understand bagging concept
-2. **Gradient Boosting** - Learn sequential improvement
-3. **XGBoost** - Master popular implementation
-
-### Phase 2: Neural Network Basics
+### Phase 1: Neural Network Basics
 4. **Multi-Layer Perceptron** - Basic neural network
 5. **Activation Functions** - Non-linear transformations
 6. **Backpropagation** - How networks learn
 
-### Phase 3: Specialized Topics
+### Phase 2: Specialized Topics
 7. **Time Series Forecasting** - Temporal data analysis
 8. **Advanced Optimization** - Better training methods
 
 ## 🔧 Practical Applications
-
-### Ensemble Methods Applications
-- **Kaggle Competitions**: Often winning solutions
-- **Production Systems**: Robust predictions
-- **Risk Assessment**: Financial modeling
-- **Recommendation Systems**: Multiple ranking models
 
 ### Neural Networks Applications
 - **Image Recognition**: Computer vision tasks
@@ -189,16 +126,6 @@ Time Series = Trend + Seasonality + Noise
 - **Weather Forecasting**: Meteorological models
 - **Demand Forecasting**: Inventory management
 - **IoT Sensor Data**: Equipment monitoring
-
-## 📊 Performance Comparison
-
-### Ensemble vs Individual Models
-```
-Individual Model:     ████████░░ 80% accuracy
-Random Forest:        ██████████ 85% accuracy  (+5%)
-Gradient Boosting:    ███████████ 88% accuracy (+8%)
-Stacked Ensemble:     ████████████ 90% accuracy (+10%)
-```
 
 ### When to Use Advanced Methods
 - ✅ **Large datasets**: Advanced methods shine with more data
