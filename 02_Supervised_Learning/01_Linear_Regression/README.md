@@ -184,32 +184,6 @@ J(β) = MSE + α₁ Σ|βᵢ| + α₂ Σβᵢ²
 - **Purpose**: Identify influential outliers
 - **Watch for**: Points with high leverage and high residuals
 
-## 🎯 What You'll Learn
-
-### Theoretical Understanding
-- [ ] Mathematical derivation of normal equation
-- [ ] Assumptions and their implications
-- [ ] Relationship to maximum likelihood estimation
-- [ ] Geometric interpretation of least squares
-
-### Practical Implementation
-- [ ] From-scratch implementation using NumPy
-- [ ] Scikit-learn implementation
-- [ ] Feature engineering techniques
-- [ ] Handling categorical variables
-
-### Model Evaluation
-- [ ] Residual analysis
-- [ ] Assumption checking
-- [ ] Cross-validation for regression
-- [ ] Interpreting coefficients
-
-### Advanced Topics
-- [ ] Regularized regression (Ridge, Lasso, Elastic Net)
-- [ ] Polynomial features
-- [ ] Interaction terms
-- [ ] Dealing with multicollinearity
-
 ## 🚀 Real-World Applications
 
 - **Economics**: Demand forecasting, price modeling
@@ -218,7 +192,3 @@ J(β) = MSE + α₁ Σ|βᵢ| + α₂ Σβᵢ²
 - **Healthcare**: Drug dosage effects, treatment outcomes
 - **Real Estate**: Property valuation
 - **Manufacturing**: Quality control, process optimization
-
----
-
-*Linear regression: Simple, interpretable, and surprisingly powerful! 📈*
