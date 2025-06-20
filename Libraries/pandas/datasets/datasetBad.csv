@@ -1,0 +1,22 @@
+Duration,Date,Pulse,Maxpulse,Calories,Phone_Number,Last_Name,Address
+60,'2020/12/01',110,130,409.1,123-545-5421,Baggins,"123 Shire Lane, Shire"
+60,'2020/12/02',117,145,479,123/643/9775,Nadir,93 West Main Street
+60,'2020/12/03',103,135,340,7066950392,/White,298 Drugs Driveway
+45,'2020/12/04',109,175,282.4,123-543-2345,Schrute,"980 Paper Avenue, Pennsylvania, 18503"
+45,'2020/12/05',117,148,406,876|678|3469,Snow,123 Dragons Road
+60,'2020/12/06',102,127,300,304-762-2467,Swanson,768 City Parkway
+60,'2020/12/07',110,136,374,,  Winger,1209 South Street
+450,'2020/12/08',104,134,253.3,876|678|3469,Holmes,98 Clue Drive
+30,'2020/12/09',109,133,195.1,N/a,,123 Middle Earth
+60,'2020/12/10',98,124,269,123-545-5421,Parker,"25th Main Street, New York"
+60,'2020/12/11',103,147,329.3,,Gamgee,"612 Shire Lane, Shire"
+60,'2020/12/12',100,120,250.7,7066950392,...Potter,2394 Hogwarts Avenue
+60,'2020/12/12',100,120,250.7,123-543-2345,Draper,2039 Main Street
+60,'2020/12/13',106,128,345.3,876|678|3469,Knope,343 City Parkway
+60,'2020/12/14',104,132,379.3,304-762-2467,Flenderson_,214 HR Avenue
+60,'2020/12/15',98,123,275,123-545-5421,Weasley,2395 Hogwarts Avenue
+60,,98,120,215.2,123/643/9775,Scott,"121 Paper Avenue, Pennsylvania"
+60,'2020/12/17',100,120,300,7066950392,Kent,3498 Super Lane
+45,'2020/12/18',90,112,,N/a,Braton,N/a
+60,'2020/12/19',103,123,323,876|678|3469,Skywalker,"910 Tatooine Road, Tatooine"
+45,'2020/12/20',97,125,243,876|678|3469,Skywalker,"910 Tatooine Road, Tatooine"

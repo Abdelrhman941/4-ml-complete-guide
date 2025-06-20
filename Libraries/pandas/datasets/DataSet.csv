@@ -1,0 +1,22 @@
+CustomerID,First_Name,Last_Name,Paying Customer,Do_Not_Contact,Not_Useful_Column
+1001,Frodo,Baggins,Yes,No,TRUE
+1002,Abed,Nadir,No,Yes,FALSE
+1003,Walter,/White,N,,TRUE
+1004,Dwight,Schrute,Yes,Y,TRUE
+1005,Jon,Snow,Y,No,TRUE
+1006,Ron,Swanson,Yes,Yes,TRUE
+1007,Jeff,  Winger,No,No,FALSE
+1008,Sherlock,Holmes,N,No,FALSE
+1009,Gandalf,,Yes,,FALSE
+1010,Peter,Parker,Yes,No,TRUE
+1011,Samwise,Gamgee,Yes,No,TRUE
+1012,Harry,...Potter,Y,,TRUE
+1013,Don,Draper,Yes,N,FALSE
+1014,Leslie,Knope,Yes,No,FALSE
+1015,Toby,Flenderson_,N,No,FALSE
+1016,Ron,Weasley,No,N,FALSE
+1017,Michael ,Scott,Yes,No,FALSE
+1018,Clark,Kent,Y,,TRUE
+1019,Creed,Braton,N/a,Yes,TRUE
+1020,Anakin,Skywalker,Yes,N,TRUE
+1020,Anakin,Skywalker,Yes,N,TRUE
