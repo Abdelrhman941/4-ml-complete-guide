@@ -80,7 +80,7 @@ print(f"Prediction for x=5: {prediction[0]:.2f}")
 ## 📖 Learning Roadmap
 
 ### 🎯 **Phase 1: Data Preprocessing**
-> **Note**: Preprocessing content is maintained in a [separate repository](https://github.com/Abdelrhman941/ml-preprocessing-guide)
+> **Note**: Preprocessing content is maintained in a [separate repository](https://github.com/Abdelrhman941/3-ml-preprocessing-guide.git)
 
 **Key Topics:**
 - ✅ Data Cleaning & Missing Values
