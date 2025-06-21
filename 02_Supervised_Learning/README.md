@@ -55,24 +55,6 @@ Supervised learning algorithms learn from labeled training data to make predicti
 | K-NN | ⭐⭐⭐⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
 | Naive Bayes | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
 
-## 🎯 Learning Path
-
-### Phase 1: Linear Models
-1. **Linear Regression** - Foundation of supervised learning
-2. **Logistic Regression** - Gateway to classification
-
-### Phase 2: Tree-Based Models
-3. **Decision Trees** - Understand splitting and pruning
-4. **Random Forest** - Ensemble of trees
-
-### Phase 3: Instance-Based & Probabilistic
-5. **K-NN** - Distance-based learning
-6. **Naive Bayes** - Probabilistic classification
-
-### Phase 4: Advanced Techniques
-7. **SVM** - Margin-based learning
-8. **Ensemble Methods** - Combining algorithms
-
 ## 📝 What You'll Learn
 
 For each algorithm:
